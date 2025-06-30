@@ -8,3 +8,6 @@
 - 📫 How to reach me: advaith.vellanki@gmail.com
 
 ### Explore and enjoy my projects!
+
+
+[![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdvaithVellanki)](https://github.com/AdvaithVellanki/github-readme-stats)
