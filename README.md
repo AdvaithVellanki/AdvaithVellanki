@@ -1,6 +1,7 @@
 # Welcome to my profile!
 
 ## About me:
+- Machine Learning Research Engineer at DeepFlow AI Inc
 - 🎓 Graduate in MSc Artificial Intelligence with Distinction
 - 🔨 Skilled in Generative AI, Computer Vision and NLP
 - 🔭 I’m currently working on quantizing local LLMs and reducing latency
